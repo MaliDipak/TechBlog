@@ -61,4 +61,4 @@
 
 ## **Author**
 
-- [Dipak Chandrakant Mali](https://www.dipakmali.me)
+- [Dipak Chandrakant Mali](dipakmali.me)
